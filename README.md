@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Carlos Estrada
 
-<!--
-**thecarlosestrada/thecarlosestrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building a long-term career in IT and cybersecurity — starting from the ground up with hands-on learning, certifications, and real labs.
 
-Here are some ideas to get you started:
+- 🔐 Currently preparing for CompTIA Security+ (target: Oct 2025)
+- 💡 Labs with Cisco Packet Tracer, networking, troubleshooting
+- 🌐 Bilingual (English–Spanish) communicator
+- 📍 Based in Louisville, KY
+- 🎯 Future certifications: AWS CCP, CySA+
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📘 Current Projects
+- Security+ study notes
+- Networking & command-line labs
+- GitHub portfolio setup
+
+### 🧠 What I’m Working On
+- Daily study habits & consistency
+- Building a clean, useful lab repository
+- Learning in public (LinkedIn + GitHub)
+
+📫 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/thecarlosestrada)  
